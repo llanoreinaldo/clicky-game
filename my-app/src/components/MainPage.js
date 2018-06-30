@@ -2,7 +2,7 @@ import React from "react";
 
 const MainPage = () => (
   <div className="container">
-    <nav className="navbar navbar-expand-lg navbar-light bg-light">
+    <nav className="navbar navbar-expand-lg navbar-dark bg-light">
       <a className="navbar-brand" href="#">
       Heroes Clicky-Game
       </a>
